@@ -23,4 +23,4 @@
         +
 ```
 ### DEMO
-https://phpstack-772581-2872088.cloudwaysapps.com/
+https://cgmorah.github.io/pixelgoogle/
